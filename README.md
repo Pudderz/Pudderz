@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://octodex.github.com/images/jetpacktocat.png" width="250px" height="250px" align="right">
+<img src="https://octodex.github.com/images/jetpacktocat.png" width="30%" height="30%" align="right">
 
 I am Matthew Pudney, a self-taught front-end web developer. I enjoy anything to do with Javascript, learning new things and finding out how everything works.
 

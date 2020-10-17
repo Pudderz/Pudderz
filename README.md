@@ -2,16 +2,16 @@
 
 <img src="https://octodex.github.com/images/jetpacktocat.png" width="250px" height="250px" align="right">
 
-I am Matthew Pudney, a self-taught front-end web developer. I enjoy anything to do with Javascript and learning new things and how everything works.
+I am Matthew Pudney, a self-taught front-end web developer. I enjoy anything to do with Javascript, learning new things and finding out how everything works.
 
 I am currently messing around with p5.js
 - 🌱 I am learning how to visualize algorithms. 
 - 🤔 I am looking for help with WebRTC's
-- 💬 Feel free to discuss anything. You can reach me at 
+- 💬 Feel free to discuss anything, you can reach me at 
     mpudney2@gmail.com
-    
-- [Portfolio](www.matthewPudney.co.uk)
-- [Resume]()
+- :page_facing_up: [Portfolio](www.matthewPudney.co.uk)  [Resume]()
+
+ 
 
 **Languages and Tools:**  
 

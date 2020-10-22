@@ -9,7 +9,7 @@ I am currently messing around with p5.js
 - 🤔 I am looking for help with WebRTC's
 - 💬 Feel free to discuss anything, you can reach me at 
     mpudney2@gmail.com
-- :page_facing_up: [Portfolio](https://www.matthewpudney.co.uk/), [Resume]()
+- :page_facing_up: [Portfolio](https://www.matthewpudney.co.uk/)
 
  
 

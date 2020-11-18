@@ -4,8 +4,8 @@
 
 I am Matthew Pudney, a self-taught front-end web developer. I enjoy anything to do with Javascript, learning new things and finding out how everything works.
 
-I am currently messing around with p5.js
-- 🌱 I am learning how to visualize algorithms. 
+I am currently messing around with three.js.
+- 🌱 I am learning Algorithms and data structures. 
 - 🤔 I am looking for help with WebRTC's
 - 💬 Feel free to discuss anything, you can reach me at 
     mpudney2@gmail.com
